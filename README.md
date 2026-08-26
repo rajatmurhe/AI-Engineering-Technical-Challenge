@@ -4,6 +4,7 @@
 ### Design & Implementation Specification
 
 **Submitted By:** Rajat Murhe (rajatmurhe1@gmail.com)
+
 **Purpose:** Hand-off document for a coding agent to build an AI system that takes a user request plus a folder of mixed-format files, researches and analyzes the content, and produces a final PDF report.
 
 ---
