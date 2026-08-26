@@ -1,9 +1,9 @@
 # AI-Engineering-Technical-Challenge
 
 # Agentic Research & Report Generation System
-### Design & Implementation Specification (v2)
+### Design & Implementation Specification
 
-**Author:** Rajat Murhe
+**Submitted By::** Rajat Murhe (rajatmurhe1@gmail.com)
 **Purpose:** Hand-off document for a coding agent to build an AI system that takes a user request plus a folder of mixed-format files, researches and analyzes the content, and produces a final PDF report.
 
 ---
